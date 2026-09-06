@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JAMS/JAMS.vcxproj" Id="99b4d347-1260-445b-89b0-6505aa512055" />
+</Solution>
